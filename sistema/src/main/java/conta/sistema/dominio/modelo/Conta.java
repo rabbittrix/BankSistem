@@ -31,6 +31,7 @@ public class Conta {
         if (credito.compareTo(BigDecimal.ZERO) <= 0){
             obrigatorio("Valor crédito");
         }
+        saldo = saldo.add(credito);
     }
 
     public void debitar(BigDecimal debito){

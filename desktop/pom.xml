@@ -30,7 +30,7 @@
             <artifactId>conta.servicos</artifactId>
             <version>1.0.0</version>
             <scope>system</scope>
-            <systemPath>D:/CURSOR E TREINAMENTO/Projetos Hexagonal/BankSistem/servicos/out/artifacts/servico/servico.jar
+            <systemPath>D:/CURSOR E TREINAMENTO/Projetos Hexagonal/BankSistem/out/artifacts/servicos/servicos.jar
             </systemPath>
         </dependency>
 
