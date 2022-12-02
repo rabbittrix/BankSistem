@@ -30,7 +30,7 @@ public class Build4 {
     public DataSource dataSource() {
         var db = new SimpleDriverDataSource();
         db.setDriverClass(org.hsqldb.jdbcDriver.class);
-        db.setUrl("jdbc:hsqldb:file:E:/Database/");
+        db.setUrl("jdbc:hsqldb:file:C:/Database/");
         db.setUsername("sa");
         db.setPassword("1234");
         return db;
